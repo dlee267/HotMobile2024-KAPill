@@ -1,0 +1,14 @@
+from pathlib import Path
+args = ["NA", "R1", "M1"]
+locs = ["middle", "topright", "topleft", "bottomright", "bottomleft"]
+
+map = {
+        "NA": "B1",
+        "R1": "B2",
+        "M1": "B3"
+        }
+
+for loc in locs:
+    for arg in args:
+        fname = f'no_KAA_Yihong1_{arg}_{loc}.csv'
+        Path(fname).rename(f"no_KAA_{map[arg]}_{loc}.csv")
