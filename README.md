@@ -25,4 +25,6 @@ Please run all the code cells in order to reproduce the results accurately.
 
 # Special Thanks (Credit)
 
-For svm tuning, we used this hyperparameter training model created by KevinHooah for AutoQual: task-oriented structural vibration sensing quality assessment leveraging co-located mobile sensing context found here!
+For svm tuning, we used [this](https://github.com/KevinHooah/ML-model-hyperparameter-tuning) hyperparameter
+training model created by `KevinHooah` for `AutoQual: task-oriented structural vibration sensing quality assessment leveraging co-located mobile sensing context`
+[found here!](https://link.springer.com/article/10.1007/s42486-021-00073-3)
