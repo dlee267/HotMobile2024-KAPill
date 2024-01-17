@@ -1,5 +1,11 @@
 # Hotmobile2024-KAPill
 
+# Base Design
+
+The 3d model base designs is found in the `pill_bottle_base_design` folder:
+- the `Base.stl` is the base design we 3d printed to use for our research
+- the `Augmented base.stl` is the proof of concept 3d design with a mock spring and ball mass to visualize our augmented base
+
 # datasets
 
 For each dataset:
